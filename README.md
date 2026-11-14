@@ -53,6 +53,10 @@ Alguns antivírus barram programas sem assinatura, mesmo sem vírus. Antes de li
 - Não use **"Verificar integridade dos arquivos"** da Steam com a tradução instalada: isso desfaz parte da tradução. Se acontecer, desinstale e instale de novo.
 - Se uma atualização do jogo mudar os arquivos, o instalador recusa, porque a tradução só serve para os arquivos originais desta versão.
 
+## Apoie o projeto (opcional)
+
+A tradução é e sempre será gratuita, para todo mundo, sem nada bloqueado. Se quiser apoiar de forma voluntária: https://livepix.gg/kaynslaszx
+
 ## Créditos
 
 Tradução feita por **Kayn** · Instagram [@Kayn_Sla](https://www.instagram.com/kayn_sla/)
