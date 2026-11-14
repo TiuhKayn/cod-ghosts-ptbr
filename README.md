@@ -8,7 +8,7 @@ Tradução e dublagem em **português do Brasil** da **campanha** do *Call of Du
 
 ## Download
 
-**Em breve, na aba [Releases](../../releases).**
+**[Baixar a versão 1.0](https://github.com/TiuhKayn/cod-ghosts-ptbr/releases/tag/v1.0)**: o instalador, o `LEIA-ME.txt` e o SHA-256 para conferência.
 
 ## Antes de tudo
 
