@@ -4,6 +4,8 @@ Tradução e dublagem em **português do Brasil** da **campanha** do *Call of Du
 
 > **O site oficial desta tradução é e será apenas este GitHub. Não baixe de outros lugares.**
 
+> **Problema conhecido na v1.0:** a opção "Idioma / Language" do menu do jogo não troca o idioma. Para voltar ao inglês, desinstale pelo Windows (Aplicativos instalados). A v1.1 vai trazer a troca de idioma sem precisar desinstalar.
+
 ![Tela inicial do instalador](imagens/01_boas_vindas.png)
 
 ## Download
