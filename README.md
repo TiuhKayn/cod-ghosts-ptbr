@@ -4,13 +4,13 @@ Tradução e dublagem em **português do Brasil** da **campanha** do *Call of Du
 
 > **O site oficial desta tradução é e será apenas este GitHub. Não baixe de outros lugares.**
 
-> **Problema conhecido na v1.0:** a opção "Idioma / Language" do menu do jogo não troca o idioma. Para voltar ao inglês, desinstale pelo Windows (Aplicativos instalados). A v1.1 vai trazer a troca de idioma sem precisar desinstalar.
+> **Corrigido na v1.1:** a troca de idioma pelo menu funciona.
 
 ![Tela inicial do instalador](imagens/01_boas_vindas.png)
 
 ## Download
 
-**[Baixar a versão 1.0](https://github.com/TiuhKayn/cod-ghosts-ptbr/releases/tag/v1.0)**: o instalador, o `LEIA-ME.txt` e o SHA-256 para conferência.
+**[Baixar a versão 1.1](https://github.com/TiuhKayn/cod-ghosts-ptbr/releases/tag/v1.1)**: o instalador, o `LEIA-ME.txt` e o SHA-256 para conferência.
 
 ## Antes de tudo
 
